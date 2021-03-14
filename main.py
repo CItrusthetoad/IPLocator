@@ -32,7 +32,7 @@ import requests
 
 root = Tk()
 
-key = "328642a85d9b70011297609b0e899d8b"
+key = "KEY"
 url = "http://api.ipstack.com/"
 
 root.title("IP Locator")
